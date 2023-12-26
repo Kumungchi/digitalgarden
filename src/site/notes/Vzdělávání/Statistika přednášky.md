@@ -13,3 +13,10 @@
 [[Vzdělávání/Statistika 8. hodina\|Statistika 8. hodina]]
 [[Vzdělávání/Statistika 9. hodina\|Statistika 9. hodina]]
 [[Vzdělávání/Statistika 10. přednáška\|Statistika 10. přednáška]]
+
+
+
+
+
+<iframe src="https://brilliant.org/courses/visual-exploration/explore-data-visually/practice-making-comparisons-2/1/?from_llp=data-analysis" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="1080px" width="1080px" allowfullscreen></iframe>
+
