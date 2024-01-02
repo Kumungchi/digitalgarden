@@ -5,7 +5,7 @@
 [[Vzdělávání/Statistika na první test\|Statistika na první test]]
 
 
-# Digital Garden (beta2)
+# Digital Garden 
 
 
 [[Vzdělávání/Statistika přednášky\|Statistika přednášky]]
@@ -14,6 +14,7 @@
 [[Vzdělávání/Vzorečky na statistiku\|Vzorečky na statistiku]]
 
 
+[[Vzdělávání/Statistika na druhý test\|Statistika na druhý test]]
 
 
 
