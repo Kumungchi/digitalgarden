@@ -128,7 +128,9 @@ Když neznáme populační standardní odchylku 𝝈, musíme ji odhadnout pomoc
 ![](https://i.imgur.com/3eqrXLM.png)
 
 
-Pokud chceme intervaly spolehlivosti vypočíst ručně, postupujeme následovně: Stanovíme si úroveň spolehlivosti, často 0,95 (obecně 1−𝛼, kde 𝛼 představuje pravděpodobnost, že interval nebude obsahovat hodnotu populačního parametru). Vypočteme směrodatnou odchylku 𝒔, průměr vzorku 𝒙 ̅a stupně volnosti 𝒅𝒇=𝒏−𝟏. Nalezneme příslušný kvantil t-distribuce, 𝒕_(𝟏−𝜶/𝟐)., kde 𝜶=𝟏−ú𝒓𝒐𝒗𝒆ň 𝒔𝒑𝒐𝒍𝒆𝒉𝒍𝒊𝒗𝒐𝒔𝒕𝒊 Vypočteme samotný interval spolehlivosti pro průměr populace: (𝒙 ̅−𝒕_(𝟏−𝜶/𝟐) 𝒔/√𝒏;𝒙 ̅+𝒕_(𝟏−𝜶/𝟐) 𝒔/√𝒏) Např. při 95% (alfa = 5 %) úrovni spolehlivosti a 𝑑𝑓=30 bude 𝑡_0,975=2,042.
+Pokud chceme intervaly spolehlivosti vypočíst ručně, postupujeme následovně: Stanovíme si úroveň spolehlivosti, často 0,95 (obecně 1−𝛼, kde 𝛼 představuje pravděpodobnost, že interval nebude obsahovat hodnotu populačního parametru). Vypočteme směrodatnou odchylku 𝒔, průměr vzorku 𝒙 ̅a stupně volnosti 𝒅𝒇=𝒏−𝟏. Nalezneme příslušný kvantil t-distribuce, 𝒕_(𝟏−𝜶/𝟐)., kde 𝜶=𝟏−ú𝒓𝒐𝒗𝒆ň 𝒔𝒑𝒐𝒍𝒆𝒉𝒍𝒊𝒗𝒐𝒔𝒕𝒊 Vypočteme samotný interval spolehlivosti pro průměr populace: (𝒙 ̅−𝒕_(𝟏−𝜶/𝟐) 𝒔/√𝒏;𝒙 ̅+𝒕_(𝟏−𝜶/𝟐) 𝒔/√𝒏) 
+
+Např. při 95% (alfa = 5 %) úrovni spolehlivosti a 𝑑𝑓=30 bude 𝑡_0,975=2,042.
 
 
 ## Interval spolehlivosti pro relativní četnost: Exaktní výpočet
