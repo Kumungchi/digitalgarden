@@ -3,13 +3,15 @@
 ---
 
 
-[[Vzdělávání/Statistika 1. hodina\|Statistika 1. hodina]]
-[[Vzdělávání/Statistika 2. hodina\|Statistika 2. hodina]]
-[[Vzdělávání/Statistika 3. hodina\|Statistika 3. hodina]]
-[[Vzdělávání/Statistika 4. hodina\|Statistika 4. hodina]]
-[[Vzdělávání/Statistika 5. hodina\|Statistika 5. hodina]]
-[[Vzdělávání/Statistika 6. hodina\|Statistika 6. hodina]]
-[[Vzdělávání/Statistika 7. hodina\|Statistika 7. hodina]]
-[[Vzdělávání/Statistika 8. hodina\|Statistika 8. hodina]]
-[[Vzdělávání/Statistika 9. hodina\|Statistika 9. hodina]]
-[[Vzdělávání/Statistika 10. přednáška\|Statistika 10. přednáška]]
+[[Vzdělávání/Statistika 1. hodina Úvod do statistiky\|Statistika 1. hodina Úvod do statistiky]]
+[[Vzdělávání/Statistika 2. hodina Deskriptivní statistika\|Statistika 2. hodina Deskriptivní statistika]]
+[[Vzdělávání/Statistika 3. hodina  Univariační analýza  numerické charakteristiky\|Statistika 3. hodina  Univariační analýza  numerické charakteristiky]]
+[[Vzdělávání/Statistika 4. hodina Počítání s dekriptivní statistikou\|Statistika 4. hodina Počítání s dekriptivní statistikou]]
+[[Vzdělávání/Statistika 5. hodina Bivariační analýza\|Statistika 5. hodina Bivariační analýza]]
+[[Vzdělávání/Statistika 6. hodina Korelace\|Statistika 6. hodina Korelace]]
+[[Vzdělávání/Statistika 7. hodina Normální Rozdělení\|Statistika 7. hodina Normální Rozdělení]]
+[[Vzdělávání/Statistika 8. hodina Pravděpodobnost\|Statistika 8. hodina Pravděpodobnost]]
+[[Vzdělávání/Statistika 9. hodina Vzorkování a hypotézy\|Statistika 9. hodina Vzorkování a hypotézy]]
+[[Vzdělávání/Statistika 10. hodina Statistická interference a Inferenční statistika\|Statistika 10. hodina Statistická interference a Inferenční statistika]]
+[[Vzdělávání/Statistika 11. hodina Spojité vs kategorické\|Statistika 11. hodina Spojité vs kategorické]]
+
