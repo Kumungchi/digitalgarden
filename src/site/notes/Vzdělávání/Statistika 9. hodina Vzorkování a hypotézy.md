@@ -136,7 +136,7 @@ V tomto příkladě nulová hypotéza tvrdí, že střední výška rostlin v ko
 Pravděpodobnost chyby l- typu odpovídá zvolené hladině
 statistické významnosti: = P(zamítnutí Ho I Ho platí)
 
-Chyba ll- typu nastává, když nezamítneme Ho, ačkoli neplatí
+**Chyba ll**- typu nastává, když nezamítneme Ho, ačkoli neplatí
 Pravděpodobnost chyby Il. typu se značí a odpovídá
 P(nezamítnutí Ho I Ho neplatí)-
 Nevíme, zda platí Ho nebo HA, ale musíme vzít
