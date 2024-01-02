@@ -2,19 +2,32 @@
 {"dg-publish":true,"permalink":"/Vzdělávání/Digital Garden/","tags":["gardenEntry"]}
 ---
 
-[[Vzdělávání/Statistika na první test\|Statistika na první test]]
-
 
 # Digital Garden 
 
+Trochu jsem vylepšil stránku. Nyní je možnost si přepnout do light theme modu, pokud někdo preferuje.
 
+Materiály na druhý test jsou v odkazu níže. Nezahrnoval jsem všechny příklady ze všech materiálů.
+
+Pokud by někdo měl zájem udělal jsem i video průvodce, kde vše vysvětluji srozumitelně, kdo by měl zájem, napište mi.
+
+Zároveň budu ve středu, zatím v neurčený čas na discordu dělat study session, kde si budeme moci projít nejasnosti a vyzkoušet příklady z Howella.
+
+
+
+
+[[Vzdělávání/Statistika na druhý test\|Statistika na druhý test]]
 [[Vzdělávání/Statistika přednášky\|Statistika přednášky]]
 
 
 [[Vzdělávání/Vzorečky na statistiku\|Vzorečky na statistiku]]
+[[Vzdělávání/Statistika na první test\|Statistika na první test]]
 
 
-[[Vzdělávání/Statistika na druhý test\|Statistika na druhý test]]
 
 
-
+Zde přikládám užitečné odkazy pro test:
+https://www.hackmath.net/cz/kalkulacka
+https://www.statology.org/tutorials/
+https://www.statisticshowto.com/
+https://online.stat.psu.edu/stat500/lesson/0
