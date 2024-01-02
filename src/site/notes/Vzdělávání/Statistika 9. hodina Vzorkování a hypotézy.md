@@ -235,7 +235,7 @@ A víme, že testová statistika t: 𝑡=(𝑋 ̅−𝜇_0)/𝑆𝐸
 
 by měla mít při platnosti 𝐻_0 t-rozdělení se stupni volnosti v = n – 1.
 
-Pravděpodobnost pozorovaného nebo extrémnějšího výsledku za předpokladu, že nulová hypotéza platí, čiliP(pozorovaný nebo extrémnější výsledek | H0 platí). 𝑛=50; 𝑋 ̅=3,2;𝜎=1,74;𝑆𝐸=0,246
+Pravděpodobnost pozorovaného nebo extrémnějšího výsledku za předpokladu, že nulová hypotéza platí, čili P(pozorovaný nebo extrémnější výsledek | H0 platí). 𝑛=50; 𝑋 ̅=3,2;𝜎=1,74;𝑆𝐸=0,246
 
 p-hodnota: 𝑃(𝑋 ̅≥3,2 ┤| 𝐻_0:𝜇=3) 
 
