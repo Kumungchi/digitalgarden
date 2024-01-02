@@ -76,7 +76,7 @@ Chi-square https://www.socscistatistics.com/pvalues/chidistribution.aspx
 
 # Tabulka [[Vzdělávání/Z skor a Z test\|Z skor a Z test]]
 https://www.ztable.net/
-# Tabulka T distributation table
+# Tabulka T distributation table a [[Vzdělávání/T test\|T test]]
 https://www.tdistributiontable.com/
 
 ## Kdy použít jaký
