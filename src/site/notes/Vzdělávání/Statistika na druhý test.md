@@ -4,6 +4,7 @@
 
 
 V jednotlivých odkazech jsou výpisky na druhý test ze statistiky
+
 # Normální rozdělení
 [[Vzdělávání/Statistika 7. hodina Normální Rozdělení\|Statistika 7. hodina Normální Rozdělení]]
 
@@ -58,6 +59,18 @@ $$P(A∣B)=\frac{P(B∣A)⋅ P(A)}{P(B)}​$$
 # Vzorkování a hypotézy
 [[Vzdělávání/Statistika 9. hodina Vzorkování a hypotézy\|Statistika 9. hodina Vzorkování a hypotézy]]
 ## Zásadní pojmy
+- Výběrová variabilita (sampling variability) 
+	- rozptyl výsledků, které můžeme pozorovat v různých vzorcích populace. Opakované výběry z populace dají různé vzorky, způsobeno náhodným výběrem jednotlivých jednotek do vzorku
+- Výběrová chyba (sampling error)
+	- rozdíl mezi odhadem získaným z určitého vzorku a skutečnou hodnotou v populaci. Čím větší, tím méně je odhad ze vzorku přesný. 
+- Deskriptivní st. - metody a techniky popisu a shrnutí dat 
+- Inferenční st. - metody a techniky vyvozování závěrů a odhadů z informací získaných ze vzorků
+- Výběrové rozdělení (sampling distributation)
+	- rozdělení hodnot nějaké statistiky(pr. rozptyl,..) ze vzorků populace. Představuje možné hodnoty statistiky
+- Standardní (směrodatná) chyba (standard error)
+	- měření variability výsledků, které byly získány z různých vzorků populace. Ukazuje, jak dobře průměr vzorku reprezentuje průměr populace.
+- Výběrové rozdělení rozdílů mezi průměry (sampling distributation of differences between means) 
+	- rozdělení je klíčové zejména při porovnávání průměrů mezi různými skupinami v inferenční statistice, jako je například použití t-testů nebo analýzy rozptylu (ANOVA). Specifický typ výběrového rozdělení, mezi průměry získaných ze dvou nebo více vzorků, z různých populací
 # Statistická interference a Inferenční statistika
 [[Vzdělávání/Statistika 10. hodina Statistická interference a Inferenční statistika\|Statistika 10. hodina Statistická interference a Inferenční statistika]]
 # Statistika Spojité vs. kategorické
