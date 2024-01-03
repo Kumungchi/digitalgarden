@@ -40,7 +40,7 @@ pravidlo 68-95-99,7%, standardizované skóry (z-skóry), pravděpodobnosti a pe
 
 >[!info]- Graf N. rozdělení
 >
-![](https://i.imgur.com/HXAYttu.png)
+>![](https://i.imgur.com/HXAYttu.png)
 
 
 >[!warning]- Příklad
