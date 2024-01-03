@@ -11,9 +11,6 @@ Materiály na druhý test jsou v odkazu níže. Nezahrnoval jsem všechny přík
 
 Pokud by někdo měl zájem udělal jsem i video průvodce, kde vše vysvětluji srozumitelně, kdo by měl zájem, napište mi.
 
-Zároveň budu ve středu, zatím v neurčený čas na discordu dělat study session, kde si budeme moci projít nejasnosti a vyzkoušet příklady z Howella.
-
-
 
 
 [[Vzdělávání/Statistika na druhý test\|Statistika na druhý test]]
