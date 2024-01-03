@@ -159,6 +159,8 @@ Výpočet potřebné velikosti vzorku
 
 Stanovíme-li si předem **mezní chybu** (_ME_, tj. margin of error) a **úroveň spolehlivosti** (obvykle 95 %) a známe-li variabilitu populační distribuce (standardní odchylku, 𝜎), můžeme vypočíst potřebnou velikost vzorku pro dosažení stanovené ME.
 
+rozsah, který vyjadřuje rozdíl mezi výsledky průzkumu a skutečnými hodnotami v dané populaci
+
  Protože ME je násobkem příslušného _z_- nebo _t_-skóru a standardní chyby:
 
 $$\text{ME} = Z \times \frac{\sigma}{\sqrt{n}}
