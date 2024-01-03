@@ -9,7 +9,7 @@
 
 Výška českých žen
 
-Populace – všechny ženy v ČR (_𝜇__, 𝜎_).
+Populace – všechny ženy v ČR (𝜇, 𝜎).
 
 –        Vzorek 1: 1000 žen z Moravskoslezského kraje: $\bar𝑋$<sub>MS</sub>
 
@@ -169,7 +169,9 @@ $$
 Dejme tomu, že chceme ověřit účinek užívání antiepileptik u těhotných žen na kognitivní vývoj jejich dítěte. Konkrétně chceme odhadnout průměrné IQ 3letých dětí, které se narodily matkám užívajícím v průběhu těhotenství antiepileptika. Podle předchozích výzkumů je standardní odchylka IQ skórů u tříletých dětí 18 bodů. Kolik takových dětí musíme vyšetřit, abychom získali 90% interval spolehlivosti s ME maximálně 4 body IQ?
 
 
-𝑀𝐸=4𝐶𝐿=90%𝑍=1,65𝜎=18 𝑛=((1,65×18)/4)^2=55,13 Potřebujeme tedy vzorek o velikosti aspoň n = 56
+𝑀𝐸=4 𝐶𝐿=90% 𝑍=1,65 𝜎=18 𝑛=((1,65×18)/4)^2=55,13
+
+Potřebujeme tedy vzorek o velikosti aspoň n = 56
 
 
 Zjistili jsme, že potřebujeme vzorek aspoň 56 dětí, aby stanovená ME = 4. Jak by se potřebná velikost vzorku změnila, pokud bychom chtěli dosáhnout ME = 2. √𝑛=𝑍×𝑠/𝑀𝐸 √𝑛×2=𝑍×𝑠/(𝑀𝐸∕2) 𝑛×2^2=((𝑍×𝑠)/(𝑀𝐸/2))^2 Obecně: Pokud má být nová 𝑴𝑬 pouze 𝟏/𝒌 násobkem původní 𝑀𝐸, je nutné 𝒌^𝟐-násobná velikost vzorku. vysvětlení: SE, a tedy i ME je lineárně závislá nikoli na n, ale na odmocnině z n. Takže např. navýšení vzorku o +10 osob bude mít větší efekt na standardní chybu, pokud je původní vzorek malý (např. 10 osob), než když je rozsáhlý (např. 1000 osob)
