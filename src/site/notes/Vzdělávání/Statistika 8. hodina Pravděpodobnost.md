@@ -154,6 +154,7 @@ Pro slučitelné jevy A a B platí:
 
 P(A nebo B) = P(A) + P(B) - P(A a B)
 
+
 **Obecné součtové pravidlo**
 
 𝑷(𝑨 𝒏𝒆𝒃𝒐 𝑩)=𝑷(𝑨)+𝑷(𝑩)−𝑷(𝑨 𝒂 𝑩)
