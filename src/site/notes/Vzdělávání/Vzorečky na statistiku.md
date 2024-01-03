@@ -52,3 +52,17 @@ $$
 
 ## Z skor
 $$Z=\frac{x- \mu }{\sigma}$$
+
+## Standardní chyba
+$$\text{SE} = \frac{\sigma}{\sqrt{n}}$$
+
+
+## CL věta
+
+$$Z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}}
+$$
+
+## Mezní chyba
+$$\text{ME} = Z \times \frac{\sigma}{\sqrt{n}}
+$$
+
