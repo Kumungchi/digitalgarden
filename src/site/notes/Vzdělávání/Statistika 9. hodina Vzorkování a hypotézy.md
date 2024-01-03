@@ -264,7 +264,7 @@ Předpokládáme náhodný výběr, normalitu populačního rozdělení (nebo do
 𝐻_0, když: 2×𝑃(𝑡_𝑣≥(|𝑥 ̅−𝜇_0 |)/(𝑠/√𝑛))≤α
 
 #### Příklad
-New York je znám jako "město, které nikdy nespí". 35 náhodně vybraných obyvatel New Yorku jsme se zeptali, jak dlouho obvykle spí. Zjistili jsme, že průměr vzorku činil 𝑥 ̅ = 7,73 hodin spánkua s = 0,77. Rozložení bylo pouze mírně levostranně zešikmené. Ověřte nulovou hypotézu H_0: 𝜇=8 na hladině 𝛼=0,05 Nejprve vypočteme standardní chybu: 𝑆𝐸=𝑠∕〖√𝑛=0,77∕〖√35=0,13〗〗
+New York je znám jako "město, které nikdy nespí". 35 náhodně vybraných obyvatel New Yorku jsme se zeptali, jak dlouho obvykle spí. Zjistili jsme, že průměr vzorku činil 𝑥 ̅ = 7,73 hodin spánku s = 0,77. Rozložení bylo pouze mírně levostranně zešikmené. Ověřte nulovou hypotézu H_0: 𝜇=8 na hladině 𝛼=0,05 Nejprve vypočteme standardní chybu: 𝑆𝐸=𝑠∕〖√𝑛=0,77∕〖√35=0,13〗〗
 
 Zjistíme testovou statistiku: 𝑡=(|𝑥 ̅−𝜇_0 |)/𝑆𝐸=0,27/0,13=2,08 
 
