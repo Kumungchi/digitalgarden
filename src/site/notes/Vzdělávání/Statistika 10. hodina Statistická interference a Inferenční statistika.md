@@ -3,7 +3,7 @@
 ---
 
 
-# Statistická interference
+# Statistická inference
 
 ## **Výběrová variabilita a centrální limitní věta**
 
