@@ -9,7 +9,7 @@ Trochu jsem vylepšil stránku. Nyní je možnost si přepnout do light theme mo
 
 Materiály na druhý test jsou v odkazu níže. Nezahrnoval jsem všechny příklady ze všech materiálů.
 
-Pokud by někdo měl zájem udělal jsem i video průvodce, kde vše vysvětluji srozumitelně, kdo by měl zájem, napište mi.
+Pokud by někdo měl zájem udělal jsem i video průvodce, kde se snažím vysvětlovat věci srozumitelněji
 
 
 
