@@ -44,9 +44,9 @@ pravidlo 68-95-99,7%, standardizované skóry (z-skóry), pravděpodobnosti a pe
 
 
 >[!warning]- Příklad
-Kolik hodnot se nachází mimo 1 SD od průměru? 100 pr. - 95 pr.= 5
+Kolik hodnot se nachází mimo +1 SD od průměru? 100 pr. - 95 pr.= 5
 100 - 68 = 32 je odlehlejších, ale protože nám jde o jeden konec distr,, výsledek je 32/2 = 16
-Kolik hodnot více než SD? Mezi pr. a 1SD se nachází 68/2 = 34 hodnot. Nad průměrem se nachází 50 hodnot. Výsledek je 34+50 = 84%
+Kolik hodnot více než -1SD? Mezi pr. a 1SD se nachází 68/2 = 34 hodnot. Nad průměrem se nachází 50% hodnot. Výsledek je 34+50 = 84%
 
 
 
@@ -63,6 +63,8 @@ d) 90
   90/6 = 15
 >45 / 3 rozdíl průměrné od maxima nebo  minima
 
+
+[[Vzdělávání/Z skor a Z test\|Z skor a Z test]]
 
 >[!warning]+ Příklad
 >dosáhl v SAT (Scholastic Aptitude Test) skóru 1800. Jan v ACT (American College Testing) skore 24. Kdo z nik podal lepší výkon
