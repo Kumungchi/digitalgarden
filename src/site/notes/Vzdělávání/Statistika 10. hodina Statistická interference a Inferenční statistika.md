@@ -113,7 +113,10 @@ Opakovaný výběr vzorků z populace. Pokud bychom populace vybírali náhodné
 ## Interval spolehlivosti pro průměr populace
 
 
-Vypočítá se jako průměr vzorku plus/mínus mezní chyba, angl. margin of error (kritická hodnota odpovídající vybranému podílu normální distribuce krát standardní chyba): 𝑿 ̅±𝒁×𝝈/√𝒏 Z = 1 pro 68% CI; Z = 1,64 pro 90% CI; Z = 1,96 pro 95% CI; Z = 2,58 pro 99% CI. Podmínky: Nezávislost. Pozorování musí být nezávislá. Znalost populační 𝝈. Jinak bychom měli použít t-rozdělení, zvláště pokud máme malý vzorek. Normalita populačního rozdělení. Anebo dostatečně velký vzorek pro platnost centrální limitní věty.
+Vypočítá se jako průměr vzorku plus/mínus mezní chyba, angl. margin of error (kritická hodnota odpovídající vybranému podílu normální distribuce krát standardní chyba): 𝑿 ̅±𝒁×𝝈/√𝒏 
+Z = 1 pro 68% CI; Z = 1,64 pro 90% CI; Z = 1,96 pro 95% CI; Z = 2,58 pro 99% CI. 
+
+Podmínky: Nezávislost. Pozorování musí být nezávislá. Znalost populační 𝝈. Jinak bychom měli použít t-rozdělení, zvláště pokud máme malý vzorek. Normalita populačního rozdělení. Anebo dostatečně velký vzorek pro platnost centrální limitní věty.
 
 
 ## Interval spolehlivosti pro průměr populace, neznáme-li 𝝈
