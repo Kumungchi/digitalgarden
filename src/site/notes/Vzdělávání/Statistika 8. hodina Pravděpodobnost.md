@@ -169,7 +169,7 @@ Výběrový prostor je souborem všech možných výsledků náhodného pokusu.
 
 Příklad: muž a žena mají dvě děti, jaký je výběrový prostor pohlaví těchto dětí? Pro zjednodušení předpokládejme, že existují pouze dvě pohlaví – muž a žena.
 
-𝑆={𝑀𝑀, ŽŽ, Ž𝑀,𝑀Ž}
+$$𝑆={𝑀𝑀, ŽŽ, Ž𝑀,𝑀Ž}$$
 
 **Rozdělení pravděpodobnosti**
 
