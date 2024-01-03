@@ -187,7 +187,7 @@ Jaké jsou přibližně teploty v nejchladnějších 20 % dní?
 >>>[!warning]- Řešení
 >>>dolní mez hodnoty 3SD od pr. = 16.6
 >>>z = -0,84, tedy horní mez bude 0,84 násobek SD pod pr.
->>>$$25-0,84*2,8=22,8$$
+>>>$$25-0,84*2,8=22,6$$
 >> >v 20 % nejchladnějších dnů by měla být teplota v pásmu 16, 6 až 22,6 	
 
 
