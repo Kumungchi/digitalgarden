@@ -101,7 +101,7 @@ Kromě statistické významnosti je zapotřebí posoudit i praktickou významnos
 - Prospektivní (prospective) vs retrospektivní studie (retrospective study)
 - Případová kontrolní studie (case-control study)
 - Randomizovaná klinická zkouška (randomized clinical trial)
-- Jednoduše zaslepená (single-blind) nebo dvojitě zaslepená (douuble-blind) studie
+- Jednoduše zaslepená (single-blind) nebo dvojitě zaslepená (double-blind) studie
 
 ## Velikosti účinku
 
