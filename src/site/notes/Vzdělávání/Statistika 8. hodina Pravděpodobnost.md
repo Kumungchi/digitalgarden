@@ -226,16 +226,11 @@ Po **závislé jevy** tedy platí naopak:
 >V roce 2013 proběhl v Severní Karolině v USA průzkum, který se dotazoval na názor respondentů ohledně držení zbraní? Chrání liberální zákony ohledně držení zbraní bezúhonné občany, nebo naopak ohrožují bezpečnost ve společnosti? Že tyto zákony chrání občany uvedlo:
 >
 >_58 % všech respondentů,_
->
 >_67 % bělochů,_
->
- >_28 % černochů,_
->
- >_a 64 % Hispánců._
- >
->Názor na držení zbraní a etnická příslušnost jsou:  
-a) komplementární, b) vzájemně výlučné, c) nezávislé,  
-<mark style="background: #FFB8EBA6;">d) závislé</mark>, e) disjunktní.
+>_28 % černochů,_
+>a 64 % Hispánců._
+ >Názor na držení zbraní a etnická příslušnost jsou:  a) komplementární, b) vzájemně výlučné, c)nezávislé,  
+>d)==závislé== e) disjunktní.
 
 
 **Posouzení nezávislosti na základ dat ze vzorku**
