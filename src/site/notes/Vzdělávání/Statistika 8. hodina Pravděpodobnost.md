@@ -150,8 +150,6 @@ Jaká je pravděpodobnost, že z dobře promíchaného balíčku hracích karet 
 
 $$P(Jnebo červená)= P(K)+P(č.)-P(K a č.)=\frac{4}{52}+\frac{26}{52}-\frac{2}{52}\approx0,538$$
 
-![](https://i.imgur.com/WwqKphC.png)
-
 Pro slučitelné jevy A a B platí:
 
 P(A nebo B) = P(A) + P(B) - P(A a B)
@@ -235,6 +233,8 @@ Po **závislé jevy** tedy platí naopak:
 >a 64 % Hispánců._
  >Názor na držení zbraní a etnická příslušnost jsou:  a) komplementární, b) vzájemně výlučné, c)nezávislé,  
 >d)==závislé== e) disjunktní.
+
+![](https://i.imgur.com/caAMDrc.png)
 
 
 **Posouzení nezávislosti na základ dat ze vzorku**
