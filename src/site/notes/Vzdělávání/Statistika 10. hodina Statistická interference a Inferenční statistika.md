@@ -19,7 +19,8 @@ Populace – všechny ženy v ČR (_𝜇__, 𝜎_).
 
 Průměr populace: $\mu =\frac{x_1+x_2+...x_N}{N}$
 
-SD populace: $$\text{S} = \sqrt{\frac{1}{N} \sum_{i=1}^{n} (x_i - \bar{x})^2}$$
+SD populace: 
+$$\text{S} = \sqrt{\frac{1}{N} \sum_{i=1}^{n} (x_i - \bar{x})^2}$$
 Alternativní zápis
 $$\sigma = \sqrt{\frac{\sum_{i=1}^{N} (x_{i} - \bar{x})^2}{N}}
 $$
