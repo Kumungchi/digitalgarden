@@ -273,6 +273,9 @@ $$P(A|B)=\frac{P(A\;a\;B)}{P(B)}$$
 
 Násobíme-li obě strny P(B), dostaneme součinové pravidlo:
 
+
+
+
 $$P(A\;a\;B)=P(A|B)\times P(B)$$
 Nezávislost a podmíněné pravděpodobnosti
 - Obecně platí, že pokud P(A|B)= P(A), pak jsou jevy A a B nezávislé
@@ -293,3 +296,13 @@ podmíněná P(A|B, C …)
 
 
 
+![](https://i.imgur.com/lhT9kY8.png)
+
+P(studijnı obor∣pohlavı)=P(studijnı obor)
+
+Pokud jsou tedy nezávislé, pravděpodobnost studijního oboru u konkrétního pohlaví je rovna celkové pravděpodobnosti studijního oboru bez ohledu na pohlaví.
+
+
+
+
+![](https://i.imgur.com/HTkDrvn.png)
