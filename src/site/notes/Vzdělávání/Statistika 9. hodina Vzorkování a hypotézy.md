@@ -281,6 +281,9 @@ p-hodnotu, která udává pravděpodobnost pozorovaného nebo extrémnějšího 
 p-hodnotu porovnáme s hladinou 𝜶, pokud 𝑝<𝛼, zamítáme nulovou hypotézu ve prospěch alternativní, pokud 𝑝>𝛼, ponecháváme nulovou hypotézu. 
 Užitečné je také vždy uvádět interval spolehlivosti, abychom vyjádřili nejistotu v odhadu populačního parametru..
 
+
+![](https://i.imgur.com/cMF3ZUo.png)
+
 ## Vztah intervalů spolehlivosti, p-hodnot a hladiny $\alpha$(oboustranné testy)
 
 Protože úroveň spolehlivosti je definována jako 1–α, lze hypotézy ověřovat i na základě intervalů spolehlivosti. Pro oboustranné testy platí následující. 
