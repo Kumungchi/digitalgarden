@@ -28,3 +28,4 @@ https://www.hackmath.net/cz/kalkulacka
 https://www.statology.org/tutorials/
 https://www.statisticshowto.com/
 https://online.stat.psu.edu/stat500/lesson/0
+https://www.gigacalculator.com/calculators/z-score-to-p-value-calculator.php
