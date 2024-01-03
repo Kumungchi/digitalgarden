@@ -181,7 +181,7 @@ zaplatit?
 >Víme, že v Los Angeles je průměrná denní teplota v
 červnu 25 oc a SD = 2,8 oc. Předpokládejme, že rozdělení
 těchto teplot je přibližně normální.
-Jaké jsou přibližně teploty v 20 % dní?
+Jaké jsou přibližně teploty v nejchladnějších 20 % dní?
 >>[!tip]- Normální rozdělení graf
 >>![](https://i.imgur.com/w4noWZl.png)
 >>>[!warning]- Řešení
