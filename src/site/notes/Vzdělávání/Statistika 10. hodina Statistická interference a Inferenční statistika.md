@@ -146,10 +146,13 @@ Pokud podmínky normální aproximace nejsou splněny, nebo je velikost vzorku n
 
 Představme si, že bychom tentýž výzkum provedli 1000 krát na různých vzorcích téže velikosti a z téže populace. Pro každý vzorek bychom vypočetli např. průměr a zjistili bychom, že 95 % průměrů se pohybuje od 3 do 10. Jinými slovy 2,5% kvantil výběrového rozdělení by byl 3 a 97,5% kvantil výběrového rozdělení by byl 10 a 95% CI pro populační průměr by byl [3; 10]. Z tohoto principu vychází percentilový bootstrap, ale místo toho, abychom výzkum 1000krát replikovali, získáváme výběrové rozdělení pomocí simulace. Z našeho původního vzorku tvoříme bootstrapové vzorky tak, že provádíme náhodný výběr z našeho vzorku s navrácením prvků. K našemu původnímu vzorku se tedy chováme jako k populaci, ze které provádíme náhodný výběr s navrácením prvků pro tvorbu tzv. boostrapových vzorků.
 
-Máme např. 𝑛 případů, tzn. 𝑋_1,𝑋_2, …𝑋_𝑛. Z těchto případů získáme bootstrapový vzorek o stejné velikosti 𝒏 náhodným výběrem s navrácením prvků (jakýkoli prvek 𝑋 tak můžeme vybrat 0 až 𝑛-krát). Získáme tedy bootstrapový vzorek 𝑋_1^∗,𝑋_2^∗,… 𝑋_𝑛^∗. Takto simulujeme mnoho bootstrapových vzorků (např. 2000). Původní hodnoty:1, 4, 2, 19, 4, 12, 29, 4, 9, 16. 1. bootstrapový vzorek (příklad):2, 9, 16, 2, 4, 12, 4, 29, 16, 19. 2. bootstrapový vzorek (příklad):29, 16, 29, 19, 2, 16, 2, 9, 4, 29.
+Máme např. 𝑛 případů, tzn. 𝑋_1,𝑋_2, …𝑋_𝑛. Z těchto případů získáme bootstrapový vzorek o stejné velikosti 𝒏 náhodným výběrem s navrácením prvků (jakýkoli prvek 𝑋 tak můžeme vybrat 0 až 𝑛-krát). Získáme tedy bootstrapový vzorek 𝑋_1^∗,𝑋_2^∗,… 𝑋_𝑛^∗. Takto simulujeme mnoho bootstrapových vzorků (např. 2000). 
+
+Původní hodnoty:1, 4, 2, 19, 4, 12, 29, 4, 9, 16. 1. bootstrapový vzorek (příklad):2, 9, 16, 2, 4, 12, 4, 29, 16, 19. 2. bootstrapový vzorek (příklad):29, 16, 29, 19, 2, 16, 2, 9, 4, 29.
 
 U všech těchto 1000 bootstapových vzorků vypočteme průměr, Všech 1000 průměru seřadíme od nejmenšího po největší 95% CI pro populační průměr zjistíme na základě prostředních 95 % bootstrapových průměrů (hodnot 2,5% a 97,5% kvantilu). Vyzkoušejte si sami pomocí této aplikace:http://fssvm6.fss.muni.cz/bootstrap/ Zkuste zjistit 90% bootstrapový interval spolehlivosti pro podíl covid pozitivních, pokud jsme. Protože je 25 covid–, 5 covid+, musíme vložit celkem třicet hodnot: 0 (25krát) a 1 (5krát).
 
+http://fssvm6.fss.muni.cz/bootstrap/
 ## Velikost vzorku nutná pro stanovenou mezní chybu
 
 Výpočet potřebné velikosti vzorku
