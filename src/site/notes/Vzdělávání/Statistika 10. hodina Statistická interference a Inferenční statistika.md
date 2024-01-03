@@ -185,7 +185,7 @@ Zjistili jsme, že potřebujeme vzorek aspoň 56 dětí, aby stanovená ME = 4. 
 
 _P_(zamítnutí H0 | H0 neplatí) = 1 – _P_(nezamítnutí H0 | H0 neplatí)
 
-Rovná se **1 –** **β****.**
+Rovná se **1 –** **β***
 
 Vizualizace statistické síly pro ověřování rozdílu mezi průměry
 
