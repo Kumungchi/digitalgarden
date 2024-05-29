@@ -4,12 +4,15 @@
 
 
 # Digital Garden 
+ 
+ Všechny Vás zdravím, níže je odkaz na materiály pro lepší orientaci v látce na metody. V těchto materiálech nejsou vysvětlovány základní pojmy ze statistiky, ale snažil jsem se jednodušeji vysvětlovat problematiku a způsob zjištění výsledků z tabulek a používání různých testů.
 
-Trochu jsem vylepšil stránku. Nyní je možnost si přepnout do light theme modu, pokud někdo preferuje.
+[[Vzdělávání/Materiály na metody kvantitativního a kvalitativního výzkumu\|Materiály na metody kvantitativního a kvalitativního výzkumu]]
 
-Materiály na druhý test jsou v odkazu níže. Nezahrnoval jsem všechny příklady ze všech materiálů.
 
-Pokud by někdo měl zájem udělal jsem i video průvodce, kde se snažím vysvětlovat věci srozumitelněji
+Pro zopakování statistiky a statistických základů, včetně vzorečků, můžete použít odkazy níže.
+
+
 
 
 
