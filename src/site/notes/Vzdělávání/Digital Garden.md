@@ -8,7 +8,7 @@
  Všechny Vás zdravím, níže je odkaz na materiály pro lepší orientaci v látce na metody. V těchto materiálech nejsou vysvětlovány základní pojmy ze statistiky, ale snažil jsem se jednodušeji vysvětlovat problematiku a způsob zjištění výsledků z tabulek a používání různých testů.
 
 [[Vzdělávání/Materiály na metody kvantitativního a kvalitativního výzkumu\|Materiály na metody kvantitativního a kvalitativního výzkumu]]
-
+[[Vzdělávání/Vzorečky na metody\|Vzorečky na metody]]
 
 Pro zopakování statistiky a statistických základů, včetně vzorečků, můžete použít odkazy níže.
 
