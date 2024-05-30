@@ -75,7 +75,7 @@ d.   Rx nebo Ry – v jakém pořadí jsou hodnoty potom co je seřadím
 
 4.     Dosazení do vzorce  
 
-$$H = \frac{12}{n(n+1)} \left( \frac{T_a^2}{n_a} + \frac{T_b^2}{n_b} + \frac{T_c^2}{n_c} \right) - 3(n+1)$$
+$H = \frac{12}{n(n+1)} \left( \frac{T_a^2}{n_a} + \frac{T_b^2}{n_b} + \frac{T_c^2}{n_c} \right) - 3(n+1)$
 
 5.       Pokud je testovací kritérium **větší** než kritická hodnota, zamítáme nulovou hypotézu
 
