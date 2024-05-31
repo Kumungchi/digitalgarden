@@ -106,6 +106,16 @@ Podle výsledku testu (a stupňům volnosti, d.f., s.v. – určují se z počtu
 
 hodnotu testové statistiky, testovacího kritéria (např. t, F, $\chi$ <sup>2</sup>, U…..)
 
+![](https://i.imgur.com/nFVuW3a.png)
+
+
+
+![](https://i.imgur.com/Xj1ZJgp.png)
+
+
+
+![](https://i.imgur.com/PsrCiHT.png)
+
 
 ###  Příklady použití testů
 
@@ -286,7 +296,7 @@ Koukáme na poslední řádek, ten se rovná 0,47, což je větší než 0,05.
 
 ## Testy shody
 
-Parametrický test – Chí kvadrát test (χ2)
+**Parametrický test – Chí kvadrát test (χ2)**
 
 ·       **Podmínky:** žádná kategorie s nulovou četností; maximálně 20 % s četností menší než 5
 
